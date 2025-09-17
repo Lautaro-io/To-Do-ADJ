@@ -23,12 +23,14 @@ Aplicación Android desarrollada como parte del reto de **Adopta un Junior**, en
 - **Gradle Kotlin DSL**
 
 ##   Estructura del proyecto 
-  To-Do-ADJ/
-  ├── app/                  # Módulo principal de la app
-  ├── gradle/               # Configuración de Gradle
-  ├── .idea/                # Configuración del entorno
-  ├── build.gradle.kts      # Configuración raíz del build
-  └── settings.gradle.kts   # Inclusión de módulos
+To-Do-ADJ/
+├── app/                  # Módulo principal
+│   ├── data/             # Room, repositorios
+│   ├── di/               # Módulos Hilt
+│   ├── domain/           # Modelos y casos de uso
+│   ├── presentation/     # ViewModels y UI
+├── build.gradle.kts      # Configuración del módulo
+└── settings.gradle.kts   # Inclusión de módulos
 
 
 ## Desarrollado completamente por Lautaro-Ildarraz
