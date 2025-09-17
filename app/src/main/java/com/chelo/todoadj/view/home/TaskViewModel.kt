@@ -50,9 +50,6 @@ class TaskViewModel @Inject constructor(private val repo: TaskRepository) : View
         _state.value = _state.value.copy(description = description)
     }
 
-    fun onCompletedChanged(isCompleted: Boolean){
-        _state.value.copy(isCompleted = isCompleted)
-    }
 }
 
 
