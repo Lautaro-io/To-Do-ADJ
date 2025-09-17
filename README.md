@@ -24,7 +24,6 @@ Aplicación Android desarrollada como parte del reto de **Adopta un Junior**, en
 
 ## Desarrollado completamente por Lautaro Ildarraz
 
-## Desarrollado completamente por Lautaro-Ildarraz
 
 
 
