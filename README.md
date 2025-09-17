@@ -22,16 +22,7 @@ Aplicación Android desarrollada como parte del reto de **Adopta un Junior**, en
 - **Material Design**
 - **Gradle Kotlin DSL**
 
-##   Estructura del proyecto 
-To-Do-ADJ/
-├── app/                  # Módulo principal
-│   ├── data/             # Room, repositorios
-│   ├── di/               # Módulos Hilt
-│   ├── domain/           # Modelos y casos de uso
-│   ├── presentation/     # ViewModels y UI
-├── build.gradle.kts      # Configuración del módulo
-└── settings.gradle.kts   # Inclusión de módulos
-
+## Desarrollado completamente por Lautaro Ildarraz
 
 ## Desarrollado completamente por Lautaro-Ildarraz
 
